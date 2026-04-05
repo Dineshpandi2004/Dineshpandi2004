@@ -112,7 +112,7 @@ Quick learner with practical exposure to JWT authentication, Spring Security, ro
   </a>
   &nbsp;
   <a href="https://github.com/Dineshpandi2004" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-yourusername-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Dineshpandi2004-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="tel:+918438809244" target="_blank">
@@ -121,20 +121,8 @@ Quick learner with practical exposure to JWT authentication, Spring Security, ro
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20Tamil%20Nadu-FF5722?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 </p>
-
+&nbsp;
+<p>🕐 Availability | Immediate Joiner | </p>
 ---
 
-## 📬 Contact Me Directly
-
-| Platform | Details |
-|----------|---------|
-| 📧 Email | [Dineshrajeshmdu@gmail.com](mailto:Dineshrajeshmdu@gmail.com) |
-| 📱 Phone | [+91 8438809244]|
-| 💼 LinkedIn | [https://www.linkedin.com/in/dinesh-pandi-s-810726354]() |
-| 💻 GitHub | [github.com/yourusername](https://github.com/Dineshpandi2004) |
-| 📍 Location | Coimbatore, Tamil Nadu, India |
-| 🕐 Availability | Immediate Joiner |
-
----
-
-⭐️ *From [Dinesh Pandi S](https://github.com/yourusername) — Feel free to explore my repositories and drop a star if you find something useful!*
+⭐️ *From [Dinesh Pandi S](https://github.com/Dineshpandi2004) — Feel free to explore my repositories and drop a star if you find something useful!*
