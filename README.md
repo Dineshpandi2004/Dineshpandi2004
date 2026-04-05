@@ -15,6 +15,7 @@ Quick learner with practical exposure to JWT authentication, Spring Security, ro
 - 🏭 Worked at **ZF CVCS Chennai** — Junior Design Engineer (Mar 2025 – Sep 2025)
 - 📚 Currently upskilling — Java Full Stack @ IDM Tech Park (Oct 2025 – Apr 2026)
 - 📍 Coimbatore, Tamil Nadu, India
+- 📱 Phone / WhatsApp | [+91 8438809244]
 - 📫 Reach me at **Dineshrajeshmdu@gmail.com**
 
 ---
@@ -96,7 +97,7 @@ Quick learner with practical exposure to JWT authentication, Spring Security, ro
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-pandi-s-810726354)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Dineshrajeshmdu@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) <a href="mailto:Dineshrajeshmdu@gmail.com"> [Dineshrajeshmdu@gmail.com](mailto:Dineshrajeshmdu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Dineshpandi2004)
 
 ---
