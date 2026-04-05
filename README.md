@@ -93,13 +93,6 @@ Quick learner with practical exposure to JWT authentication, Spring Security, ro
 
 ---
 
-## 📊 GitHub Stats
-
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📜 Certifications & Courses
 
 - 🏆 Java Full Stack Development — IDM Tech Park (Oct 2025 – Apr 2026)
@@ -110,7 +103,7 @@ Quick learner with practical exposure to JWT authentication, Spring Security, ro
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/dinesh-pandi-s-810726354" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Pandi%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -118,7 +111,7 @@ Quick learner with practical exposure to JWT authentication, Spring Security, ro
     <img src="https://img.shields.io/badge/Gmail-Dineshrajeshmdu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Dineshpandi2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-yourusername-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
@@ -136,9 +129,9 @@ Quick learner with practical exposure to JWT authentication, Spring Security, ro
 | Platform | Details |
 |----------|---------|
 | 📧 Email | [Dineshrajeshmdu@gmail.com](mailto:Dineshrajeshmdu@gmail.com) |
-| 📱 Phone | [+91 8438809244](tel:+918438809244) |
-| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
-| 💻 GitHub | [github.com/yourusername](https://github.com/yourusername) |
+| 📱 Phone | [+91 8438809244]|
+| 💼 LinkedIn | [https://www.linkedin.com/in/dinesh-pandi-s-810726354]() |
+| 💻 GitHub | [github.com/yourusername](https://github.com/Dineshpandi2004) |
 | 📍 Location | Coimbatore, Tamil Nadu, India |
 | 🕐 Availability | Immediate Joiner |
 
